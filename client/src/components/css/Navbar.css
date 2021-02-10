@@ -1,0 +1,19 @@
+.login-signup-btns a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(255, 255, 255);
+  color: rgb(24, 24, 24);
+  height: 35px;
+  width: 100px;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  padding-top: 4px;
+}
+
+.login-signup-btns i {
+  font-size: 17px;
+  margin-right: 4px;
+}
